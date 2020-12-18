@@ -1,0 +1,904 @@
+{
+  "value": [
+    {
+      "taxicode": "2",
+      "latitude": 51.991495,
+      "longitude": 4.3557381,
+      "bfa": false,
+      "ownership": "Gigaclub",
+      "type": "Trail",
+      "Name": "Hagan"
+    },
+    {
+      "taxicode": "41",
+      "latitude": 54.519499,
+      "longitude": 86.358927,
+      "bfa": true,
+      "ownership": "Wikivu",
+      "type": "Alley",
+      "Name": "Ohio"
+    },
+    {
+      "taxicode": "0379",
+      "latitude": 49.5609979,
+      "longitude": 5.8741913,
+      "bfa": false,
+      "ownership": "Livetube",
+      "type": "Park",
+      "Name": "Sloan"
+    },
+    {
+      "taxicode": "4",
+      "latitude": 10.584981,
+      "longitude": -62.3037176,
+      "bfa": false,
+      "ownership": "Yakidoo",
+      "type": "Place",
+      "Name": "Everett"
+    },
+    {
+      "taxicode": "7",
+      "latitude": -26.2886266,
+      "longitude": 27.8454627,
+      "bfa": true,
+      "ownership": "Meedoo",
+      "type": "Hill",
+      "Name": "Roth"
+    },
+    {
+      "taxicode": "361",
+      "latitude": 55.4046005,
+      "longitude": 22.5703273,
+      "bfa": true,
+      "ownership": "Kamba",
+      "type": "Road",
+      "Name": "Schmedeman"
+    },
+    {
+      "taxicode": "77954",
+      "latitude": 26.0799319,
+      "longitude": -80.298025,
+      "bfa": false,
+      "ownership": "Tagcat",
+      "type": "Terrace",
+      "Name": "Clove"
+    },
+    {
+      "taxicode": "82",
+      "latitude": 54.2732308,
+      "longitude": 32.014211,
+      "bfa": true,
+      "ownership": "Tagchat",
+      "type": "Hill",
+      "Name": "Sage"
+    },
+    {
+      "taxicode": "60664",
+      "latitude": 29.770279,
+      "longitude": 84.03153,
+      "bfa": false,
+      "ownership": "Brainverse",
+      "type": "Trail",
+      "Name": "Bultman"
+    },
+    {
+      "taxicode": "80700",
+      "latitude": 50.1359658,
+      "longitude": 14.9863398,
+      "bfa": true,
+      "ownership": "Tagopia",
+      "type": "Lane",
+      "Name": "Gateway"
+    },
+    {
+      "taxicode": "1",
+      "latitude": 15.2784628,
+      "longitude": -87.5847613,
+      "bfa": false,
+      "ownership": "Youfeed",
+      "type": "Avenue",
+      "Name": "Manufacturers"
+    },
+    {
+      "taxicode": "1",
+      "latitude": 38.984289,
+      "longitude": 118.498758,
+      "bfa": false,
+      "ownership": "Pixonyx",
+      "type": "Street",
+      "Name": "Hovde"
+    },
+    {
+      "taxicode": "797",
+      "latitude": -6.194154,
+      "longitude": 105.939567,
+      "bfa": true,
+      "ownership": "Dabvine",
+      "type": "Parkway",
+      "Name": "Chive"
+    },
+    {
+      "taxicode": "18",
+      "latitude": 45.3401583,
+      "longitude": 104.0061889,
+      "bfa": true,
+      "ownership": "Jaloo",
+      "type": "Park",
+      "Name": "Crownhardt"
+    },
+    {
+      "taxicode": "36964",
+      "latitude": -7.5201771,
+      "longitude": 109.2638245,
+      "bfa": true,
+      "ownership": "Eabox",
+      "type": "Junction",
+      "Name": "Truax"
+    },
+    {
+      "taxicode": "500",
+      "latitude": 17.5045661,
+      "longitude": -88.1962133,
+      "bfa": false,
+      "ownership": "Gigabox",
+      "type": "Plaza",
+      "Name": "Bunting"
+    },
+    {
+      "taxicode": "98",
+      "latitude": 19.4052965,
+      "longitude": -99.1504583,
+      "bfa": false,
+      "ownership": "Meevee",
+      "type": "Parkway",
+      "Name": "Westerfield"
+    },
+    {
+      "taxicode": "33",
+      "latitude": 42.5787371,
+      "longitude": 20.2966257,
+      "bfa": false,
+      "ownership": "Dazzlesphere",
+      "type": "Center",
+      "Name": "Butternut"
+    },
+    {
+      "taxicode": "0",
+      "latitude": -8.2795949,
+      "longitude": 112.0327329,
+      "bfa": false,
+      "ownership": "Skinder",
+      "type": "Crossing",
+      "Name": "Sunnyside"
+    },
+    {
+      "taxicode": "82",
+      "latitude": 51.5182635,
+      "longitude": 46.0058803,
+      "bfa": true,
+      "ownership": "Photojam",
+      "type": "Crossing",
+      "Name": "Mallory"
+    },
+    {
+      "taxicode": "4",
+      "latitude": 10.3296345,
+      "longitude": 37.7343987,
+      "bfa": false,
+      "ownership": "Dazzlesphere",
+      "type": "Center",
+      "Name": "Kensington"
+    },
+    {
+      "taxicode": "2",
+      "latitude": 33.467588,
+      "longitude": 104.285114,
+      "bfa": true,
+      "ownership": "Agivu",
+      "type": "Way",
+      "Name": "Dexter"
+    },
+    {
+      "taxicode": "52342",
+      "latitude": 36.6512,
+      "longitude": 117.120095,
+      "bfa": false,
+      "ownership": "Oyondu",
+      "type": "Pass",
+      "Name": "West"
+    },
+    {
+      "taxicode": "85",
+      "latitude": -5.946466,
+      "longitude": -77.303723,
+      "bfa": true,
+      "ownership": "Flipbug",
+      "type": "Circle",
+      "Name": "Messerschmidt"
+    },
+    {
+      "taxicode": "9",
+      "latitude": 49.2574664,
+      "longitude": -123.0419607,
+      "bfa": false,
+      "ownership": "Kanoodle",
+      "type": "Junction",
+      "Name": "Fulton"
+    },
+    {
+      "taxicode": "2738",
+      "latitude": 41.0901834,
+      "longitude": -73.541744,
+      "bfa": false,
+      "ownership": "Youfeed",
+      "type": "Way",
+      "Name": "Maple"
+    },
+    {
+      "taxicode": "58035",
+      "latitude": 7.0727574,
+      "longitude": 100.4059456,
+      "bfa": false,
+      "ownership": "Buzzbean",
+      "type": "Pass",
+      "Name": "Lighthouse Bay"
+    },
+    {
+      "taxicode": "85",
+      "latitude": 40.979512,
+      "longitude": 19.897722,
+      "bfa": true,
+      "ownership": "Yodel",
+      "type": "Plaza",
+      "Name": "Rusk"
+    },
+    {
+      "taxicode": "362",
+      "latitude": 43.082258,
+      "longitude": 23.3786254,
+      "bfa": false,
+      "ownership": "Cogilith",
+      "type": "Lane",
+      "Name": "Northwestern"
+    },
+    {
+      "taxicode": "00722",
+      "latitude": 18.9688054,
+      "longitude": 105.0557415,
+      "bfa": true,
+      "ownership": "Skidoo",
+      "type": "Trail",
+      "Name": "East"
+    },
+    {
+      "taxicode": "6384",
+      "latitude": 28.498317,
+      "longitude": 112.523522,
+      "bfa": false,
+      "ownership": "Skyba",
+      "type": "Lane",
+      "Name": "Bultman"
+    },
+    {
+      "taxicode": "64506",
+      "latitude": 32.158702,
+      "longitude": 35.224177,
+      "bfa": true,
+      "ownership": "Babbleblab",
+      "type": "Drive",
+      "Name": "Mcbride"
+    },
+    {
+      "taxicode": "47",
+      "latitude": -10.8996,
+      "longitude": 122.9017,
+      "bfa": false,
+      "ownership": "Riffpedia",
+      "type": "Crossing",
+      "Name": "Mendota"
+    },
+    {
+      "taxicode": "3",
+      "latitude": 14.4432884,
+      "longitude": 120.9330931,
+      "bfa": true,
+      "ownership": "Zava",
+      "type": "Pass",
+      "Name": "Maywood"
+    },
+    {
+      "taxicode": "94400",
+      "latitude": 16.8263127,
+      "longitude": 42.7344873,
+      "bfa": true,
+      "ownership": "Jaxbean",
+      "type": "Hill",
+      "Name": "Mariners Cove"
+    },
+    {
+      "taxicode": "6326",
+      "latitude": 29.731101,
+      "longitude": 116.251947,
+      "bfa": true,
+      "ownership": "InnoZ",
+      "type": "Road",
+      "Name": "Pine View"
+    },
+    {
+      "taxicode": "700",
+      "latitude": 44.6233945,
+      "longitude": -73.5346134,
+      "bfa": false,
+      "ownership": "Quire",
+      "type": "Way",
+      "Name": "Westend"
+    },
+    {
+      "taxicode": "43",
+      "latitude": 30.815101,
+      "longitude": 103.560075,
+      "bfa": false,
+      "ownership": "Gigabox",
+      "type": "Center",
+      "Name": "American Ash"
+    },
+    {
+      "taxicode": "3687",
+      "latitude": 9.6062133,
+      "longitude": 3.9419415,
+      "bfa": false,
+      "ownership": "Meezzy",
+      "type": "Point",
+      "Name": "Raven"
+    },
+    {
+      "taxicode": "70110",
+      "latitude": 40.4925406,
+      "longitude": 21.5714154,
+      "bfa": true,
+      "ownership": "Skajo",
+      "type": "Park",
+      "Name": "Coleman"
+    },
+    {
+      "taxicode": "33404",
+      "latitude": 41.068909,
+      "longitude": 122.949298,
+      "bfa": true,
+      "ownership": "Oozz",
+      "type": "Center",
+      "Name": "Dahle"
+    },
+    {
+      "taxicode": "9",
+      "latitude": 29.673196,
+      "longitude": 110.73404,
+      "bfa": false,
+      "ownership": "Jabbertype",
+      "type": "Hill",
+      "Name": "Eliot"
+    },
+    {
+      "taxicode": "24024",
+      "latitude": 11.1449142,
+      "longitude": 124.8326192,
+      "bfa": false,
+      "ownership": "Wikido",
+      "type": "Plaza",
+      "Name": "Lien"
+    },
+    {
+      "taxicode": "2",
+      "latitude": 38.9,
+      "longitude": -77.04,
+      "bfa": true,
+      "ownership": "Flashset",
+      "type": "Court",
+      "Name": "Magdeline"
+    },
+    {
+      "taxicode": "90704",
+      "latitude": 42.1309737,
+      "longitude": 24.9390156,
+      "bfa": false,
+      "ownership": "Mudo",
+      "type": "Plaza",
+      "Name": "Atwood"
+    },
+    {
+      "taxicode": "52",
+      "latitude": -8.2202049,
+      "longitude": 111.4708135,
+      "bfa": true,
+      "ownership": "Pixope",
+      "type": "Center",
+      "Name": "Westend"
+    },
+    {
+      "taxicode": "3",
+      "latitude": 8.2673715,
+      "longitude": -72.0631118,
+      "bfa": false,
+      "ownership": "Wordware",
+      "type": "Center",
+      "Name": "Grasskamp"
+    },
+    {
+      "taxicode": "60627",
+      "latitude": 38.487193,
+      "longitude": 106.230908,
+      "bfa": true,
+      "ownership": "Fivebridge",
+      "type": "Lane",
+      "Name": "Atwood"
+    },
+    {
+      "taxicode": "95856",
+      "latitude": 41.0874823,
+      "longitude": -7.9582137,
+      "bfa": true,
+      "ownership": "Feedmix",
+      "type": "Court",
+      "Name": "Dorton"
+    },
+    {
+      "taxicode": "0",
+      "latitude": -3.0412633,
+      "longitude": 119.1158017,
+      "bfa": false,
+      "ownership": "Linktype",
+      "type": "Court",
+      "Name": "Northview"
+    },
+    {
+      "taxicode": "0278",
+      "latitude": 44.4645876,
+      "longitude": 11.3727437,
+      "bfa": false,
+      "ownership": "Flipbug",
+      "type": "Drive",
+      "Name": "Grayhawk"
+    },
+    {
+      "taxicode": "608",
+      "latitude": 49.5730119,
+      "longitude": 22.0608204,
+      "bfa": false,
+      "ownership": "Wordtune",
+      "type": "Road",
+      "Name": "Boyd"
+    },
+    {
+      "taxicode": "572",
+      "latitude": 23.144757,
+      "longitude": 113.253429,
+      "bfa": false,
+      "ownership": "Devbug",
+      "type": "Crossing",
+      "Name": "Forster"
+    },
+    {
+      "taxicode": "20",
+      "latitude": -16.7698232,
+      "longitude": 31.5769572,
+      "bfa": false,
+      "ownership": "Topicware",
+      "type": "Circle",
+      "Name": "Hallows"
+    },
+    {
+      "taxicode": "621",
+      "latitude": 50.3093303,
+      "longitude": 17.0987136,
+      "bfa": true,
+      "ownership": "Twinder",
+      "type": "Court",
+      "Name": "Division"
+    },
+    {
+      "taxicode": "287",
+      "latitude": 57.7594822,
+      "longitude": 14.1522619,
+      "bfa": false,
+      "ownership": "Thoughtmix",
+      "type": "Point",
+      "Name": "Oxford"
+    },
+    {
+      "taxicode": "05",
+      "latitude": -23.6012232,
+      "longitude": -51.6392076,
+      "bfa": false,
+      "ownership": "Reallinks",
+      "type": "Parkway",
+      "Name": "La Follette"
+    },
+    {
+      "taxicode": "17",
+      "latitude": 50.1674668,
+      "longitude": 18.9067921,
+      "bfa": true,
+      "ownership": "Oyonder",
+      "type": "Circle",
+      "Name": "Garrison"
+    },
+    {
+      "taxicode": "50",
+      "latitude": 23.3790333,
+      "longitude": 113.7632828,
+      "bfa": false,
+      "ownership": "Demizz",
+      "type": "Court",
+      "Name": "Stoughton"
+    },
+    {
+      "taxicode": "2475",
+      "latitude": 43.7129726,
+      "longitude": 7.1703118,
+      "bfa": false,
+      "ownership": "Centidel",
+      "type": "Crossing",
+      "Name": "Banding"
+    },
+    {
+      "taxicode": "4733",
+      "latitude": 27.685255,
+      "longitude": 105.390592,
+      "bfa": false,
+      "ownership": "Eare",
+      "type": "Trail",
+      "Name": "Pankratz"
+    },
+    {
+      "taxicode": "90",
+      "latitude": 31.3400146,
+      "longitude": 118.9478423,
+      "bfa": false,
+      "ownership": "Leenti",
+      "type": "Lane",
+      "Name": "Mcbride"
+    },
+    {
+      "taxicode": "6",
+      "latitude": 31.803171,
+      "longitude": 118.002516,
+      "bfa": true,
+      "ownership": "Tagtune",
+      "type": "Street",
+      "Name": "Summit"
+    },
+    {
+      "taxicode": "62",
+      "latitude": 15.334879,
+      "longitude": -15.474739,
+      "bfa": false,
+      "ownership": "Skynoodle",
+      "type": "Park",
+      "Name": "Dixon"
+    },
+    {
+      "taxicode": "61884",
+      "latitude": 49.6428895,
+      "longitude": 100.1771896,
+      "bfa": true,
+      "ownership": "Riffpedia",
+      "type": "Point",
+      "Name": "Porter"
+    },
+    {
+      "taxicode": "0",
+      "latitude": -8.5056516,
+      "longitude": 117.5319733,
+      "bfa": true,
+      "ownership": "Dablist",
+      "type": "Pass",
+      "Name": "Almo"
+    },
+    {
+      "taxicode": "15",
+      "latitude": 41.4242264,
+      "longitude": -8.6722459,
+      "bfa": true,
+      "ownership": "Blogspan",
+      "type": "Terrace",
+      "Name": "1st"
+    },
+    {
+      "taxicode": "37811",
+      "latitude": 45.5423201,
+      "longitude": 5.449605,
+      "bfa": false,
+      "ownership": "Zoomdog",
+      "type": "Trail",
+      "Name": "Lunder"
+    },
+    {
+      "taxicode": "5881",
+      "latitude": 41.7396715,
+      "longitude": -85.9262162,
+      "bfa": true,
+      "ownership": "Bluejam",
+      "type": "Street",
+      "Name": "Oneill"
+    },
+    {
+      "taxicode": "33119",
+      "latitude": -12.0582305,
+      "longitude": -77.1053673,
+      "bfa": false,
+      "ownership": "Browseblab",
+      "type": "Circle",
+      "Name": "Sugar"
+    },
+    {
+      "taxicode": "31",
+      "latitude": 54.1433253,
+      "longitude": -9.7359765,
+      "bfa": true,
+      "ownership": "Lajo",
+      "type": "Parkway",
+      "Name": "Jay"
+    },
+    {
+      "taxicode": "11",
+      "latitude": 47.8215045,
+      "longitude": 7.540987,
+      "bfa": true,
+      "ownership": "Yozio",
+      "type": "Plaza",
+      "Name": "Helena"
+    },
+    {
+      "taxicode": "1991",
+      "latitude": 11.8566874,
+      "longitude": 38.015522,
+      "bfa": false,
+      "ownership": "Yata",
+      "type": "Alley",
+      "Name": "Gateway"
+    },
+    {
+      "taxicode": "35",
+      "latitude": -13.67147,
+      "longitude": -172.17768,
+      "bfa": true,
+      "ownership": "Eabox",
+      "type": "Parkway",
+      "Name": "Moland"
+    },
+    {
+      "taxicode": "611",
+      "latitude": -8.5583,
+      "longitude": 116.5378,
+      "bfa": false,
+      "ownership": "Abata",
+      "type": "Way",
+      "Name": "Manitowish"
+    },
+    {
+      "taxicode": "71",
+      "latitude": -7.7280457,
+      "longitude": 110.2325862,
+      "bfa": true,
+      "ownership": "Eire",
+      "type": "Place",
+      "Name": "Nevada"
+    },
+    {
+      "taxicode": "43378",
+      "latitude": 35.819227,
+      "longitude": 108.019549,
+      "bfa": true,
+      "ownership": "Yozio",
+      "type": "Trail",
+      "Name": "Kennedy"
+    },
+    {
+      "taxicode": "4170",
+      "latitude": -17.6680839,
+      "longitude": -71.3468091,
+      "bfa": false,
+      "ownership": "Chatterpoint",
+      "type": "Way",
+      "Name": "Prairieview"
+    },
+    {
+      "taxicode": "5823",
+      "latitude": 26.770007,
+      "longitude": 113.535405,
+      "bfa": true,
+      "ownership": "Mydeo",
+      "type": "Center",
+      "Name": "Del Mar"
+    },
+    {
+      "taxicode": "0",
+      "latitude": 31.385952,
+      "longitude": 120.936058,
+      "bfa": true,
+      "ownership": "Browsedrive",
+      "type": "Plaza",
+      "Name": "Wayridge"
+    },
+    {
+      "taxicode": "39910",
+      "latitude": 13.0553578,
+      "longitude": 99.8348146,
+      "bfa": false,
+      "ownership": "Youspan",
+      "type": "Road",
+      "Name": "Troy"
+    },
+    {
+      "taxicode": "22398",
+      "latitude": 28.008237,
+      "longitude": 114.033247,
+      "bfa": false,
+      "ownership": "Reallinks",
+      "type": "Parkway",
+      "Name": "Erie"
+    },
+    {
+      "taxicode": "244",
+      "latitude": 18.1166668,
+      "longitude": 120.6999969,
+      "bfa": false,
+      "ownership": "Quamba",
+      "type": "Crossing",
+      "Name": "Little Fleur"
+    },
+    {
+      "taxicode": "4360",
+      "latitude": -6.2956209,
+      "longitude": 106.6173415,
+      "bfa": false,
+      "ownership": "Bluezoom",
+      "type": "Court",
+      "Name": "Scott"
+    },
+    {
+      "taxicode": "0",
+      "latitude": 33.3585811,
+      "longitude": 36.2264681,
+      "bfa": true,
+      "ownership": "Cogilith",
+      "type": "Junction",
+      "Name": "Oxford"
+    },
+    {
+      "taxicode": "00",
+      "latitude": 26.131056,
+      "longitude": 119.569323,
+      "bfa": true,
+      "ownership": "Yadel",
+      "type": "Terrace",
+      "Name": "Atwood"
+    },
+    {
+      "taxicode": "76676",
+      "latitude": 19.1945799,
+      "longitude": 101.483498,
+      "bfa": true,
+      "ownership": "Centizu",
+      "type": "Place",
+      "Name": "Melrose"
+    },
+    {
+      "taxicode": "400",
+      "latitude": 45.4969452,
+      "longitude": 10.2740428,
+      "bfa": true,
+      "ownership": "Yodo",
+      "type": "Road",
+      "Name": "Park Meadow"
+    },
+    {
+      "taxicode": "4585",
+      "latitude": 45.616422,
+      "longitude": -122.5804528,
+      "bfa": true,
+      "ownership": "Devpoint",
+      "type": "Circle",
+      "Name": "Rigney"
+    },
+    {
+      "taxicode": "62",
+      "latitude": 53.016924,
+      "longitude": 70.0973718,
+      "bfa": true,
+      "ownership": "Tagpad",
+      "type": "Place",
+      "Name": "Delaware"
+    },
+    {
+      "taxicode": "1651",
+      "latitude": 46.6211188,
+      "longitude": 30.7719233,
+      "bfa": true,
+      "ownership": "Wordify",
+      "type": "Trail",
+      "Name": "Park Meadow"
+    },
+    {
+      "taxicode": "88407",
+      "latitude": -8.4539,
+      "longitude": 120.6359,
+      "bfa": false,
+      "ownership": "Kaymbo",
+      "type": "Avenue",
+      "Name": "Mallory"
+    },
+    {
+      "taxicode": "682",
+      "latitude": -18.7190705,
+      "longitude": -39.856734,
+      "bfa": false,
+      "ownership": "Buzzdog",
+      "type": "Point",
+      "Name": "Everett"
+    },
+    {
+      "taxicode": "212",
+      "latitude": -9.8596373,
+      "longitude": 124.2754988,
+      "bfa": false,
+      "ownership": "Aibox",
+      "type": "Terrace",
+      "Name": "Merrick"
+    },
+    {
+      "taxicode": "740",
+      "latitude": -21.3407385,
+      "longitude": -47.7352517,
+      "bfa": true,
+      "ownership": "Skyndu",
+      "type": "Drive",
+      "Name": "Kim"
+    },
+    {
+      "taxicode": "7",
+      "latitude": 7.897581,
+      "longitude": 123.768678,
+      "bfa": false,
+      "ownership": "Shufflebeat",
+      "type": "Street",
+      "Name": "Rieder"
+    },
+    {
+      "taxicode": "395",
+      "latitude": 30.1762897,
+      "longitude": 31.2067851,
+      "bfa": true,
+      "ownership": "Twiyo",
+      "type": "Trail",
+      "Name": "Meadow Valley"
+    },
+    {
+      "taxicode": "847",
+      "latitude": -31.7387876,
+      "longitude": -65.004236,
+      "bfa": false,
+      "ownership": "Zoonoodle",
+      "type": "Hill",
+      "Name": "Ryan"
+    },
+    {
+      "taxicode": "37949",
+      "latitude": -25.250202,
+      "longitude": 28.1331378,
+      "bfa": true,
+      "ownership": "Bluezoom",
+      "type": "Junction",
+      "Name": "Corben"
+    },
+    {
+      "taxicode": "21479",
+      "latitude": 27.0449005,
+      "longitude": 84.8672171,
+      "bfa": false,
+      "ownership": "Pixope",
+      "type": "Pass",
+      "Name": "Nova"
+    }
+  ]
+}
